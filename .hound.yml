@@ -1,2 +1,4 @@
 jshint:
   config_file: .jshintrc.json
+eslint:
+  enabled: true
